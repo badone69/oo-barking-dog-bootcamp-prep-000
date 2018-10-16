@@ -1,10 +1,11 @@
 # Your code goes here!
 class Dog 
-  def initialize(new)
+  def initialize(name)
     @new = new 
   end 
   def name 
     @name
+  end 
   def bark
     puts "woof!"
   end 
