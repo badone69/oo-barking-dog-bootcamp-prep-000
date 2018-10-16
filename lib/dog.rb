@@ -1,3 +1,3 @@
 # Your code goes here!
 class Dog 
-  def initialize(dog)
+  def initialize(name)
